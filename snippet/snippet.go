@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/baopham/snip/util"
-	"github.com/renstrom/fuzzysearch/fuzzy"
+	"github.com/lithammer/fuzzysearch/fuzzy"
 )
 
 const FileMode = 0600
