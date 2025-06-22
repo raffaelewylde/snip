@@ -2,7 +2,9 @@ module github.com/raffaelewylde/snip
 
 go 1.23.4
 
-replace github.com/renstrom/fuzzysearch => github.com/lithammer/fuzzysearch v1.1.1
+replace github.com/renstrom/fuzzysearch => github.com/lithammer/fuzzysearch v1.1.8
+replace gopkg.in/baopham/snip.v3 => github.com/raffaelewylde/snip v1.0.0
+
 
 
 require (
@@ -15,6 +17,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.36.2
 	github.com/urfave/cli v1.22.16
+	github.com/raffaelewylde/snip v1.0.0
 )
 
 require (
