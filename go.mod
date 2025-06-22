@@ -25,7 +25,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
-	github.com/renstrom/fuzzysearch v0.0.0-00010101000000-000000000000 // indirect
+	github.com/lithammer/fuzzysearch v0.0.0-00010101000000-000000000000 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
