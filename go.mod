@@ -2,7 +2,8 @@ module github.com/raffaelewylde/snip
 
 go 1.23.4
 
-replace github.com/renstrom/fuzzysearch => github.com/lithammer/fuzzysearch v1.1.3
+replace github.com/renstrom/fuzzysearch => github.com/lithammer/fuzzysearch v1.1.1
+
 
 require (
 	github.com/atotto/clipboard v0.1.4
