@@ -4,8 +4,6 @@ go 1.23.4
 
 replace github.com/renstrom/fuzzysearch => github.com/lithammer/fuzzysearch v1.1.1
 
-replace gopkg.in/baopham/snip.v3 => github.com/raffaelewylde/snip v1.0.0
-
 require (
 	github.com/atotto/clipboard v0.1.4
 	github.com/baopham/go-cliutil v0.0.0-20170720135941-bcff7d43700f
@@ -26,7 +24,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
-	github.com/renstrom/fuzzysearch v0.0.0-00010101000000-000000000000 // indirect
+	github.com/renstrom/fuzzysearch v1.1.8 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
